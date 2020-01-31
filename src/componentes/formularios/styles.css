@@ -1,0 +1,23 @@
+.listado li{
+    list-style: none;
+    color:red ;
+  }
+  .formudatos{
+    border: 2px solid #74db14;
+    border-radius: 7px;
+  }
+  .formudatos:focus { 
+    outline: none;
+    border-color: #dd8c3f;
+    box-shadow: 0 0 10px #ca6637;
+  }
+  .ShowText{
+    display:none;
+  }
+  .eboton{
+    border-color: rgb(9, 32, 163);
+    border-radius: 50px;
+    padding: 10px 100px 10px 100px;
+    background-color: rgb(128, 0, 79);
+    color:white;
+  }
